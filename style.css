@@ -1,0 +1,29 @@
+*{
+    background-color: rgb(233, 210, 223);
+   
+   border-color: rgb(71, 77, 121);
+
+}
+
+.container h1, p {
+text-align: center;
+}
+
+input, textarea{
+    color: black;
+    font-size:large;
+    font-style: calc();
+    line-break: auto;
+    background-color: rgb(222, 216, 219);
+    border-radius: 0cqb;
+width: 80%;
+margin: 4px;
+padding: 7px;
+
+}
+
+form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
